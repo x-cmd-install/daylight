@@ -4,7 +4,7 @@
 
 a command-line program for tracking sunrise and sunset times
 
-![daylight](https://repo.x-cmd.io/daylight.svg)
+![daylight](https://repo.x-cmd.io/daylight.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,26 @@ x install daylight
 - **最新版本**: `v1.3.0` (2025-09-30)
 - **最近提交**: 2026-08-26
 - **Release 含资产**: 15 个
-- **发布时间**: 2025-09-30T22:13:03Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [daylight_1.3.0_checksums.txt](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_1.3.0_checksums.txt) | 1.3 KiB | `other` |
+| [daylight_Darwin_arm64.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Darwin_arm64.tar.gz) | 2.7 MiB | `native/darwin/arm64` |
+| [daylight_Darwin_x86_64.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Darwin_x86_64.tar.gz) | 2.8 MiB | `native/darwin/x64` |
+| [daylight_Freebsd_arm64.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Freebsd_arm64.tar.gz) | 2.6 MiB | `native/linux/arm64` |
+| [daylight_Freebsd_i386.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Freebsd_i386.tar.gz) | 2.7 MiB | `native/linux/x86` |
+| [daylight_Freebsd_x86_64.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Freebsd_x86_64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [daylight_Linux_arm64.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Linux_arm64.tar.gz) | 2.6 MiB | `native/linux/arm64` |
+| [daylight_Linux_i386.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Linux_i386.tar.gz) | 2.7 MiB | `native/linux/x86` |
+| [daylight_Linux_x86_64.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Linux_x86_64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [daylight_Openbsd_arm64.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Openbsd_arm64.tar.gz) | 2.6 MiB | `native/linux/arm64` |
+| [daylight_Openbsd_i386.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Openbsd_i386.tar.gz) | 2.7 MiB | `native/linux/x86` |
+| [daylight_Openbsd_x86_64.tar.gz](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Openbsd_x86_64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [daylight_Windows_arm64.zip](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Windows_arm64.zip) | 2.5 MiB | `native/win/arm64` |
+| [daylight_Windows_i386.zip](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Windows_i386.zip) | 2.7 MiB | `native/win/x64` |
+| [daylight_Windows_x86_64.zip](https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Windows_x86_64.zip) | 2.8 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -59,4 +78,4 @@ daylight 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:13:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:51:00Z._
