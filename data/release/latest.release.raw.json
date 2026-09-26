@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2801224,
       "digest": "sha256:d3ad25fe69984718e93f850772819e62cc8d564d3be6d90a24fff36a0217be7f",
-      "download_count": 397,
+      "download_count": 398,
       "created_at": "2025-09-30T22:12:45Z",
       "updated_at": "2025-09-30T22:13:02Z",
       "browser_download_url": "https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Darwin_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2934885,
       "digest": "sha256:efaf2492a52d900b6311921a35be31d65626aa26d5a14e3fb8f19476ceb28abc",
-      "download_count": 397,
+      "download_count": 400,
       "created_at": "2025-09-30T22:12:45Z",
       "updated_at": "2025-09-30T22:13:00Z",
       "browser_download_url": "https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Linux_x86_64.tar.gz"
