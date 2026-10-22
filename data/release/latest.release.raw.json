@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2850690,
       "digest": "sha256:b3fcb17a177cd65db22ef68bde9ab87d5e3dd59d3a2fb3fc063e4410c02cddd6",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2025-09-30T22:12:45Z",
       "updated_at": "2025-09-30T22:12:56Z",
       "browser_download_url": "https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Linux_i386.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2934885,
       "digest": "sha256:efaf2492a52d900b6311921a35be31d65626aa26d5a14e3fb8f19476ceb28abc",
-      "download_count": 444,
+      "download_count": 447,
       "created_at": "2025-09-30T22:12:45Z",
       "updated_at": "2025-09-30T22:13:00Z",
       "browser_download_url": "https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Linux_x86_64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2906165,
       "digest": "sha256:bd0fe30df9283a81b5a870979abb9ba5892c01f1f73949b70d711d24aa5ce611",
-      "download_count": 69,
+      "download_count": 70,
       "created_at": "2025-09-30T22:12:45Z",
       "updated_at": "2025-09-30T22:12:57Z",
       "browser_download_url": "https://github.com/jbreckmckye/daylight/releases/download/v1.3.0/daylight_Windows_x86_64.zip"
