@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: daylight
+  binname: daylight
+  visiblename: daylight
+  version: 1.3.0
+  origversion: 1.3.0-1
+  status: unique
+  summary: a command-line program for tracking sunrise and sunset times
+  maintainers:
+    - daniel_chesters@aur
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: daylight-bin
+  binname: daylight-bin
+  visiblename: daylight-bin
+  version: 1.3.0
+  origversion: 1.3.0-1
+  status: unique
+  summary: A command-line program for tracking sunrise and sunset times
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - GPL-3.0-only
